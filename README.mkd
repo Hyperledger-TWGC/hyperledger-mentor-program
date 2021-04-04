@@ -10,8 +10,8 @@ Welcome here! 欢迎光临！我们乐于分享关于Hyperledger的暑期实习�
 * 贡献工业级的开源项目
 * 提高技术（分布式账本/区块链等）
 * 受邀参加超级账本全球开发者大会
-* [奖金](https://docs.linuxfoundation.org/lfx/mentorship/mentee-stipends/total-stipend-amount)
-
+* [助学金](https://docs.linuxfoundation.org/lfx/mentorship/mentee-stipends/total-stipend-amount)
+    - 购买力平价调整后，中国地区的助学金总额为3000 USD
 
 ## How to apply? 如何申请
 
